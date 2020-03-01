@@ -1,4 +1,4 @@
-722632277ae3620e93ec442a5a9d270c *DESCRIPTION
+60332a2b09253b104e7d45efd5cf6853 *DESCRIPTION
 419778eff1a491404a718a478b0790e6 *LICENSE
 feca7442574af3794e6cb763f95989a0 *NAMESPACE
 4f6701069e69f2b9201438af643ce687 *NEWS.md
@@ -39,7 +39,7 @@ c87e63c3ef879e2087976567adc26358 *tests/testthat.R
 b0e5c9e9d1ced314b2d2cc7237b36257 *tests/testthat/test-general.R
 dd53c0c27d059438160e02226c861b6e *tests/testthat/test-geo.R
 aad4d43f01ea51dd93123b2d236ec5d4 *tests/testthat/test-meta.R
-485d2301e3ab35f657f7311c33153ce1 *tests/testthat/test-rmd.R
+c1d79ea0b155968c5039acf9886442d7 *tests/testthat/test-rmd.R
 998f3c30aba7cf53b96fdce61ccf4775 *tests/testthat/test-social.R
 f725da5f98aa53e1ebfae62d1735dbf6 *tests/testthat/test-viewport.R
 b61233617af51c9b4ea2f961da474be3 *tests/testthat/test-write.R
