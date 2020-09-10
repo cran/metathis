@@ -1,6 +1,6 @@
 Package: metathis
 Title: HTML Metadata Tags for 'R Markdown' and 'Shiny'
-Version: 1.0.2
+Version: 1.0.3
 Authors@R: 
     person(given = "Garrick",
            family = "Aden-Buie",
@@ -19,10 +19,10 @@ Imports: htmltools, knitr, magrittr, purrr
 Suggests: rmarkdown, shiny, testthat (>= 2.1.0)
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 7.0.2
+RoxygenNote: 7.1.1
 NeedsCompilation: no
-Packaged: 2020-03-01 20:41:58 UTC; garrick
+Packaged: 2020-09-10 13:06:26 UTC; garrick
 Author: Garrick Aden-Buie [aut, cre] (<https://orcid.org/0000-0002-7111-0077>)
 Maintainer: Garrick Aden-Buie <garrick@adenbuie.com>
 Repository: CRAN
-Date/Publication: 2020-03-02 00:30:10 UTC
+Date/Publication: 2020-09-10 13:40:03 UTC
