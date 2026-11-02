@@ -1,4 +1,7 @@
-<!-- NEWS.md is maintained by https://fledge.cynkra.com, contributors should not edit this file -->
+# metathis 1.1.5
+- Avoided `purrr::prepend()`, which is defunct in the next version of purrr, by
+  using `append()` from base R instead (#37, @hadley).
+
 
 # metathis 1.1.4
 

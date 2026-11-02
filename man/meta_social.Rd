@@ -63,7 +63,7 @@ a vector of character strings.}
 \item{og_site_name}{The name of the site hosting the content}
 
 \item{facebook_app_id}{The Facebook app ID. See the
-\href{https://developers.facebook.com/docs/sharing/webmasters#markup}{Facebook Open Graph Markup}
+\href{https://developers.facebook.com/documentation/sharing/webmasters#markup}{Facebook Open Graph Markup}
 page for more information.}
 
 \item{disable_pinterest}{If \code{TRUE}, adds a metadata tag disabling pins from
@@ -103,15 +103,15 @@ meta() \%>\%
 }
 }
 \seealso{
-Other meta: 
-\code{\link{meta_apple_itunes_app}()},
-\code{\link{meta_apple_web_app}()},
-\code{\link{meta_general}()},
-\code{\link{meta_geo}()},
-\code{\link{meta_google_scholar}()},
-\code{\link{meta_name}()},
-\code{\link{meta_tag}()},
-\code{\link{meta_viewport}()},
-\code{\link{meta}()}
+Other meta:
+\code{\link[=meta]{meta()}},
+\code{\link[=meta_apple_itunes_app]{meta_apple_itunes_app()}},
+\code{\link[=meta_apple_web_app]{meta_apple_web_app()}},
+\code{\link[=meta_general]{meta_general()}},
+\code{\link[=meta_geo]{meta_geo()}},
+\code{\link[=meta_google_scholar]{meta_google_scholar()}},
+\code{\link[=meta_name]{meta_name()}},
+\code{\link[=meta_tag]{meta_tag()}},
+\code{\link[=meta_viewport]{meta_viewport()}}
 }
 \concept{meta}
